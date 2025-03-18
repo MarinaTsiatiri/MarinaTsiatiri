@@ -1,4 +1,9 @@
-### under construction 
+### socials
+[![Codewars](https://www.codewars.com/users/tsiatima/badges/micro)](https://www.codewars.com/users/tsiatima) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marinatsiatiri)
+
+
+
+
 
 <!--
 **MarinaTsiatiri/MarinaTsiatiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
