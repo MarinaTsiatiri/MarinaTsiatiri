@@ -1,6 +1,8 @@
 # Hi, I'm Marina! 👋
 
-Welcome to my GitHub profile, where I showcase my coding projects and explorations. I'm a passionate developer with a strong foundation in both front-end and back-end technologies, constantly learning and building.
+Welcome to my GitHub profile, where I showcase my coding projects and solved exercises.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marinatsiatiri&theme=transparent&hide_border=true&border_radius=3.5&mode=weekly)](https://git.io/streak-stats)
 
 ## Connect with Me
 
